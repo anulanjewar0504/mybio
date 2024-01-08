@@ -36,6 +36,7 @@
     justify-content: center;
     align-items: center;
     border: 5px solid rgb(255, 255, 255);
+    border-redius:10%;
     width: 98%;
     height: 96%;
     position: relative;
